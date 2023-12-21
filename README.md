@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2023/12/hifi-nn-featured.png" width="300"/>
+  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2023/12/hifi-nn-featured.png" width="600"/>
   <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=chenin-wang&style=flat-square&color=blue" alt=""/>
   </div>
@@ -9,7 +9,8 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
+  <img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/conversational-ai-applications-630x354.jpg" width="630" height="354"/>
 </div>
 
 ### About Me :
