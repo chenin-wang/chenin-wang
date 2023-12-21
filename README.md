@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif](https://developer-blogs.nvidia.com/wp-content/uploads/2023/12/hifi-nn-featured.png)" width="300"/>
+  <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2023/12/hifi-nn-featured.png" width="300"/>
   <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=chenin-wang&style=flat-square&color=blue" alt=""/>
   </div>
