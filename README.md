@@ -33,10 +33,6 @@ a Machine Learning Engineer and Applied Scientist.
   </tr>
 </table>  
 
-<br/>  
-  <img src="https://activity-graph.herokuapp.com/graph?username=chenin-wang&bg_color=ffffff&color=2f80ed&line=2f80ed&point=2f80ed&hide_border=true" align="left" height="" width="100%" />  
-<br/>  
-
 <!--
 **chenin-wang/chenin-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
