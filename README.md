@@ -15,7 +15,7 @@
 a Machine Learning Engineer and Applied Scientist.
 
 - 🔭 I’m currently working as a Machine Learning Engineer.
-- 🌱 Exploring Natural Language Processing, Computer Vision, Diffusion Generating and Multi-Modal Modeling. Always up for meaningful collaboration.
+- 🌱 Exploring NLP, CV Multi-Modal Modeling. Always up for meaningful collaboration.
 
 
 ## Github Stats  
